@@ -1,0 +1,7 @@
+# IG Trading Login Credentials
+# Copy this file to .env and fill in your actual credentials
+# The .env file is already in .gitignore and won't be committed
+
+IG_LOGIN_USERNAME=your_username_here
+IG_LOGIN_PASSWORD=your_password_here
+
